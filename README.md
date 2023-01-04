@@ -7,3 +7,5 @@ Dia 2: entendendo como funciona div.
 Dia 3: faltei
 
 Dia 4: Mexi um pouco no css e aprendi mais pouco sobre GIT
+
+Dia 5: Mexi no CSS e entendi como funciona div, id e class. Aprendi como funciona o display e centralizei os conteúdos
