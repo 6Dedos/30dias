@@ -13,3 +13,5 @@ Dia 5: Mexi no CSS e entendi como funciona div, id e class. Aprendi como funcion
 Dia 6: Adaptando as cores de fundo ao site.
 
 Dia 7: Organizando o menu e entendendo como funciona as fontes.
+
+Dia 8: Organizando o menu e o título do site, mudei a cor do h1.
