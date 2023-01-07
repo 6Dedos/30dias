@@ -15,3 +15,6 @@ Dia 6: Adaptando as cores de fundo ao site.
 Dia 7: Organizando o menu e entendendo como funciona as fontes.
 
 Dia 8: Organizando o menu e o título do site, mudei a cor do h1.
+
+Dia 9: Erro na tag ancora, especificamente na parte de redes sociais.
+
