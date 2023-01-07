@@ -11,7 +11,7 @@ body {
    font-size: 20px;
    text-align: center;
    margin: 1cm;
-   color: #0e5b6d
+   color:  #0e5b6d;
 }
 
 .produtosdestaque {
@@ -60,12 +60,18 @@ body {
 }
 
 .prd {
-    border-style: solid;
+    /*border-style: solid;*/
+    border-radius: 15px;
     width: auto;
     margin: 1ch;
     padding: 1ch;
     font-size: 12px;
-    
+    font-weight: 550;
+    background-color: #0e5b6d28;
     
 }
 
+#redesociais {
+    text-decoration: none;
+    color: black;
+}
