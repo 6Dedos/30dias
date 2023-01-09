@@ -18,3 +18,5 @@ Dia 8: Organizando o menu e o título do site, mudei a cor do h1.
 
 Dia 9: Erro na tag ancora, especificamente na parte de redes sociais.
 
+Dia 10: Descobri que a organização de divs é muito importante
+
