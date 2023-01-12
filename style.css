@@ -1,198 +1,28 @@
 
 body {
     background-image: linear-gradient(90deg,#165F8C,#04B2D9,#4c98a7);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
 
 }
 
-header {
-   margin-bottom: 45px;
-}
-
-nav h1 {
-   font-size: 20px;
-   text-align: center;
-   margin: 1cm;
-   color:  #0e5b6d;
-}
-
-.produtosdestaque {
-    text-align: center;
-}
-/*
-#idimg {  
-} */
-
-
-.max {
-    width: 2cm;
-    padding-right: 1cm;  
-    margin-left: 5px;
+img {
+    max-width: 25%;
     
 }
 
-#navbar {
-    display: flex;
+nav {
+    border-bottom: white solid 1px;
+}
+
+.center {
     text-align: center;
     justify-content: center;
-    
-
-}
-
-nav a {
-    text-decoration: none;
-    margin: 8px;
-    padding: 8px;
-    color: BLACK;
-    font-weight: 600;
-    font-size: 12px;
-    display: flex;
-    transition: 300ms;
-    text-align: right;
-}
-
-nav a:hover {
-    color: #43656df6;
-}
-
-main {
-    margin-bottom: 100px;
-}
-
-#produtos {
-    display: flex;
-    text-align: center;
-    
-    
-}
-
-.produto {
-    width: 35%;
 
     
 }
 
-.prd {
-    /*border-style: solid;*/
-    border-radius: 15px;
-    width: auto;
-    margin: 1ch;
-    padding: 1ch;
-    font-size: 12px;
-    font-weight: 550;
-    background-color: #0e5b6d28;
-    border: 5px ridge #0e5b6d28;
-    
-}
-
-#redesociais {
-    text-decoration: none;
-    color: black;
-}
-
-.rodape {
-
-}
-
-#redesociais {
-  justify-content: center;
-  width: 50px;
-  display: flex;
-  margin: 5px;
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  text-decoration: none;
-
-}
 
 
-.logo {
-    text-decoration: none;
-    margin: 2px;
-    font-size: 20px;
-    color: black ;
-    
-}
-
-
-
-#newsletter {
-    
-}
-
-.copy {
-    
-}
-
-@media only screen and (max-width: 820px) {
-    header {
-        margin-bottom: 45px;
-     }
-
-     nav {
-        padding: 8px;
-    }
-
-     nav a {
-        text-decoration: none;
-        margin: 6px;
-        padding: 6px;
-        color: BLACK;
-        font-weight: 200;
-        font-size: 25px;
-        text-align: right;        
-    }
-
-    nav h1 {
-        font-size: 65px;
-        padding: 10px;
-    }
-
-    .produtosdestaque {
-        font-size: 20px;
-    }
-
-    .prd {
-    font-size: large;    }
-
-   
-}
-
-@media only screen and (max-width: 480px) {
-
-
-    header {
-        margin-bottom: 23px;
-     }
-
-    nav {
-        padding: 5px;
-    }
-
-    nav h1 {
-        font-size: 35px;
-    }
-
-    .max {
-        
-    }
-    nav a {
-        text-decoration: none;
-        margin: 4px;
-        padding: 4px;
-        color: BLACK;
-        font-weight: 200;
-        font-size: 14px;
-        text-align: right;
-        
-    }
-
-    .max {
-        width: 90px;
-        padding-right: 2px;  
-      
-        
-    }
+.card {
+    align-items: center;
+    margin: 0.6rem;
 }
